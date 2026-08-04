@@ -359,7 +359,7 @@ The repository includes screenshots demonstrating:
 GitHub:
 
 ```
-https://github.com/YOUR_USERNAME
+https://github.com/zakara-assila
 ```
 
 ---
