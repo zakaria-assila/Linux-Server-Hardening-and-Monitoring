@@ -90,20 +90,19 @@ Linux-Server-Hardening-and-Monitoring/
 ├── scripts/
 │   ├── health-check.sh
 │   ├── backup.sh
-│   └── log_monitor.sh
+|   └── log_monitor.sh
 │
 └── screenshots/
-    ├── hostname.png
-    ├── system-info.png
-    ├── firewall.png
-    ├── ssh-hardening.png
-    ├── fail2ban.png
-    ├── lynis-audit.png
-    ├── health-check.png
-    ├── backup-success.png
-    ├── backup-files.png
-    ├── backup-content.png
-    └── log-monitor.png
+    ├── 01-hostname
+    ├── 02-system-information
+    ├── 03-firewall
+    ├── 04-ssh-hardening
+    ├── 05-fail2ban
+    ├── 06-lynis
+    ├── 07-monitoring
+    ├── 08-health-check
+    ├── 09-backup
+    └── 10-log-monitor
 ```
 
 ---
